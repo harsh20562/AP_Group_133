@@ -28,6 +28,5 @@ A Quick overview to the GUI design of the Game.
 ![Screenshot (24)](https://user-images.githubusercontent.com/88559112/147887330-9e711c1a-16b0-489f-80db-ce87c7a1095f.png)
 ![Screenshot (28)](https://user-images.githubusercontent.com/88559112/147887318-9518ac8e-ef13-480f-b7a5-265b49132964.png)
 ![Screenshot (27)](https://user-images.githubusercontent.com/88559112/147887320-d7e31ba3-bd47-4214-9da4-0518e86bcf0d.png)
-![Screenshot (27)](https://user-images.githubusercontent.com/88559112/147887335-c29f20d3-0d17-45c2-a8b0-df72ab9d60f6.png)
 ![Screenshot (30)](https://user-images.githubusercontent.com/88559112/147887343-aebc46ac-7d86-44a4-9b6b-797041b2083d.png)
 
